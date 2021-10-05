@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xDk2+8im2yIuEskPim9aYu3QV0znHqXhSPEx8ywiCX6ThhVAv9b2Okwxw19iVgIiaAAy+nn9Dq2W06k1XwgzJw==",
+  "dgSpecHash": "GV+uJgIZItugkgmRdEVMzUEpXlhtQXCDHhaMShn0kRCyyzs5mfxAdH5Uq6eV5WOG0feId4tT9b5ftMPaZiEnOA==",
   "success": true,
   "projectFilePath": "C:\\Users\\amcel\\OneDrive\\Desktop\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,9 @@
     "C:\\Users\\amcel\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
     "C:\\Users\\amcel\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
     "C:\\Users\\amcel\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Users\\amcel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\amcel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\amcel\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\amcel\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

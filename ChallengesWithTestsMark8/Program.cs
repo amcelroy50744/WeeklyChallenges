@@ -7,6 +7,9 @@ namespace ChallengesWithTestsMark8
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, world!");
+
+            ChallengesSet04 grit;
+                
         }
     }
 }
